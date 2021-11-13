@@ -1,6 +1,7 @@
 <head>
 <!-- mutiselect cdn -->
 
+ <link rel="stylesheet" href="{{asset('assets/jquery-multi-select/multi-select.css')}}" />
   <script src="{{asset('assets/jquery-multi-select/jquery.multi-select.js')}}"></script>
   <script src="{{asset('assets/jquery-multi-select/jquery.quicksearch.js')}}"></script>
 
